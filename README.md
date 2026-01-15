@@ -63,11 +63,7 @@ colcon build
 source install/setup.bash
 ```
 
-**Note:** You need to run `source install/setup.bash` every time you open a new terminal. Alternatively, you can add it to your `.bashrc` file for persistence:
-
-```bash
-echo "source $(pwd)/install/setup.bash" >> ~/.bashrc
-```
+**Note:** You need to run `source install/setup.bash` every time you open a new terminal. Alternatively, you can add it to your `.bashrc` file
 
 ### 3. Launch MoveIt
 

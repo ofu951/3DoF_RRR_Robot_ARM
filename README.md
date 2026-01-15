@@ -159,4 +159,3 @@ MoveIt configuration package for 3DoF RRR robot arm:
 
 ---
 
-**Note:** Other collaborators can add their names and LinkedIn profiles to the README file.

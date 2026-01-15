@@ -2,8 +2,34 @@
 
 ROS2 workspace project for controlling a 3DoF RRR robot arm using MoveIt and Dynamixel motors.
 
+## 📸 Gallery
+
+### RViz Visualization
+
+The following screenshots show the robot arm being dragged to different desired positions in RViz, displaying the resulting joint angles:
+
+![RViz Position 1](images/image1.png)
+*Robot arm configuration showing joint angles for position 1*
+
+![RViz Position 2](images/image2.png)
+*Robot arm configuration showing joint angles for position 2*
+
+![RViz Position 3](images/image3.png)
+*Robot arm configuration showing joint angles for position 3*
+
+### Real System
+
+The physical robot arm in operation:
+
+![Real System 1](images/image4.jpeg)
+*Physical 3DoF RRR robot arm in use*
+
+![Real System 2](images/image5.jpeg)
+*Robot arm performing tasks in real-world environment*
+
 ## 📋 Table of Contents
 
+- [Gallery](#gallery)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
